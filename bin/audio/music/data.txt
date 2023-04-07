@@ -1,0 +1,5 @@
+cutman.wav
+jevil.wav
+whispy.wav
+marx.wav
+kingkrool.wav
